@@ -21,4 +21,4 @@ My name is Juan Carlos Sequiera Piedra. My main goal is to become a Full-Stack d
 - Ethereum Smart Contracts
 - GraphQL
 
-## Markdown heading
+<hr />
