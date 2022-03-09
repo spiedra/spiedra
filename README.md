@@ -4,7 +4,7 @@ My name is Juan Carlos Sequiera Piedra. My main goal is to become a Full-Stack d
 
 ## Technologies
 
-### High Proficiency
+#### High Proficiency
 
 - JavaScript
 - React.js
