@@ -1,6 +1,8 @@
 # Hi there 👋
 
-My name is Juan Carlos Sequiera Piedra. My main goal is to become a Full-Stack developer. I'm really passionate about technologies that change and improve the world.
+I'm Juan Carlos Sequiera Piedra, a Cybersecurity Analyst with a passion for all things code and technology. While my professional focus lies in cybersecurity, my journey began with a strong interest in software development.
+
+Now I keep learning from new technologies and try to combine it with cybersecurity.
 
 ## Technologies
 
