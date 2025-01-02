@@ -1,26 +1,32 @@
-# Hi there 👋
+# Hey there 👋
 
-I'm Juan Carlos Sequiera Piedra, a Cybersecurity Analyst with a passion for all things code and technology. While my professional focus lies in cybersecurity, my journey began with a strong interest in software development.
 
-Now I continue to learn about new technologies and try to combine it with what is now my greatest passion, cybersecurity.
+I'm a **Cybersecurity Professional** with a strong passion for **Offensive Security**. My fascination with technology started early, and over time, it evolved into a deep love for ethical hacking and securing systems.
 
-## Technologies
+And of course I love automate stuff. 🛠️
 
-#### High Proficiency
+## Technologies and Skills
 
-- JavaScript
-- React.js
-- Node.js
-- SQL
-- PHP
-- C#
-- Java
+### High Proficiency
+- **Cybersecurity**
+  - End-User Security
+  - Endpoint Security
+  - Network Security
+  - Adversary Emulation
+  - Pentesting
+- **Programming and Development**
+  - JavaScript (Next.js, React.js, Node.js)
+  - SQL
+  - PHP
+  - C#
+  - C++
+  - Java
+  - Terraform
+  - Jenkins
 
-#### I'm currently learning
-
-- Solidity
-- TypeScript
-- Ethereum Smart Contracts
-- GraphQL
+### Currently Learning
+- Cloud Pentesting
+- LLM Pentesting
+- CTF stuff: specifically binary exploitation
 
 <hr />
